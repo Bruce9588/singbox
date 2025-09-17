@@ -10,3 +10,6 @@ config_tun.json      #openWRT七尺宇sing-box脚本后端tun模式
 
 
 momofake.json。      #Momo后端fakeIp模式
+
+
+momofakesocks5.json   #Momo后端fakeIp模式(带socks5内部端口)
